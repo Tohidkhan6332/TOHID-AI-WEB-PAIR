@@ -17,7 +17,7 @@
   "author": "Tohidkhan6332",
   "license": "ISC",
   "dependencies": {
-    "@whiskeysockets/baileys": "6.6.0",
+    "@whiskeysockets/baileys": "github:seiren-primrose/PL-Baileys",
     "qrcode": "^1.5.3",
     "awesome-phonenumber": "^2.64.0",
     "pino": "^8.1.0",
